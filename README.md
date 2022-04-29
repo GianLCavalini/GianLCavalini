@@ -18,4 +18,4 @@
 #### Connect with me!
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gian-lucca-9342b8232/)
   
-    ![Snake animation](https://github.com/GianLCavalini/GianLCavalini/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/GianLCavalini/GianLCavalini/blob/output/github-contribution-grid-snake.svg)
