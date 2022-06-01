@@ -1,4 +1,4 @@
-### Hey there welcome to my homepage <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width=40px>
+### Hey there welcome to my homepage 
 
 
 <div align="justify">
